@@ -72,8 +72,8 @@ Wyniki pojawią się w oknie listy – kliknij dwukrotnie, by otworzyć wybrane 
 cv-scorer/
 │
 ├── cv_scorer.py        # Główny plik aplikacji
-├── requirements.txt     # Lista zależności
-└── README.md            # Dokumentacja projektu
+├── requirements.txt    # Lista zależności
+└── README.md           # Dokumentacja projektu
 ```
 ---
 
