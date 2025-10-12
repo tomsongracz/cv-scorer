@@ -31,10 +31,10 @@ Po dwukrotnym kliknięciu na wynik aplikacja automatycznie otworzy wybrane CV.
 ▶️ Jak uruchomić
 
 Sklonuj repozytorium:
-
+```bash
 git clone https://github.com/tomsongracz/cv-scorer.git
 cd cv-scorer
-
+```
 
 Zainstaluj wymagane pakiety:
 ```bash
