@@ -55,14 +55,13 @@ python cv_scorer.py
 
 💡 Jak używać
 
-Kliknij „Załaduj pliki CV” i wybierz swoje pliki .pdf lub .docx.
+1. Kliknij „Załaduj pliki CV” i wybierz swoje pliki .pdf lub .docx.
 
-Wpisz słowa kluczowe oddzielone przecinkami, np.:
+2. Wpisz słowa kluczowe oddzielone przecinkami, np.:
 
-Python, Excel, SQL, analiza danych
+3. Python, Excel, SQL, analiza danych
 
-
-Kliknij „Szukaj słów kluczowych”, aby rozpocząć analizę.
+4. Kliknij „Szukaj słów kluczowych”, aby rozpocząć analizę.
 
 Wyniki pojawią się w oknie listy – kliknij dwukrotnie, by otworzyć wybrane CV.
 
