@@ -1,7 +1,7 @@
 # CV Scorer – Analiza i ocena CV na podstawie słów kluczowych
 
-Aplikacja w Pythonie umożliwiająca analizę i ocenę plików CV (`.pdf` i `.docx`) pod kątem występowania określonych słów kluczowych.  
-Użytkownik może wgrać wiele plików, wpisać interesujące go słowa kluczowe, a następnie uzyskać listę CV posortowaną według liczby dopasowań.  
+Aplikacja w Pythonie umożliwiająca analizę i ocenę plików CV (`.pdf` i `.docx`) pod kątem występowania określonych słów kluczowych. 
+Użytkownik może wgrać wiele plików, wpisać interesujące go słowa kluczowe, a następnie uzyskać listę CV posortowaną według liczby dopasowań. 
 Po dwukrotnym kliknięciu na wynik aplikacja automatycznie otworzy wybrane CV.
 
 ---
