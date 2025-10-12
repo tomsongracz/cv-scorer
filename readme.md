@@ -30,13 +30,13 @@ Po dwukrotnym kliknięciu na wynik aplikacja automatycznie otworzy wybrane CV.
 
 ## ▶️ Jak uruchomić
 
-Sklonuj repozytorium:
+1. Sklonuj repozytorium:
 ```bash
 git clone https://github.com/tomsongracz/cv-scorer.git
 cd cv-scorer
 ```
 
-Zainstaluj wymagane pakiety:
+2. Zainstaluj wymagane pakiety:
 ```bash
 pip install -r requirements.txt
 ```
@@ -46,14 +46,14 @@ pip install -r requirements.txt
 pip install PyMuPDF python-docx
 ```
 
-Uruchom aplikację:
+3. Uruchom aplikację:
 ```bash
 python cv_scorer.py
 ```
 
 ---
 
-💡 Jak używać
+## 💡 Jak używać
 
 1. Kliknij „Załaduj pliki CV” i wybierz swoje pliki .pdf lub .docx.
 
@@ -67,7 +67,7 @@ Wyniki pojawią się w oknie listy – kliknij dwukrotnie, by otworzyć wybrane 
 
 ---
 
-📂 Struktura projektu
+## 📂 Struktura projektu
 ```bash
 cv-scorer/
 │
@@ -77,7 +77,7 @@ cv-scorer/
 ```
 ---
 
-👤 Autor
+## 👤 Autor
 
 Projekt przygotowany w celach edukacyjnych i demonstracyjnych.
 Możesz mnie znaleźć na GitHubie: tomsongracz
