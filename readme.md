@@ -28,7 +28,7 @@ Po dwukrotnym kliknięciu na wynik aplikacja automatycznie otworzy wybrane CV.
 
 ---
 
-▶️ Jak uruchomić
+## ▶️ Jak uruchomić
 
 Sklonuj repozytorium:
 ```bash
