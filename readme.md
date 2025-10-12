@@ -80,3 +80,5 @@ cv-scorer/
 
 Projekt przygotowany w celach edukacyjnych i demonstracyjnych.
 Możesz mnie znaleźć na GitHubie: tomsongracz
+
+---
