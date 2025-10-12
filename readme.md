@@ -68,12 +68,13 @@ Wyniki pojawią się w oknie listy – kliknij dwukrotnie, by otworzyć wybrane 
 ---
 
 📂 Struktura projektu
+```bash
 cv-scorer/
 │
 ├── cv_scorer.py        # Główny plik aplikacji
 ├── requirements.txt     # Lista zależności
 └── README.md            # Dokumentacja projektu
-
+```
 ---
 
 👤 Autor
