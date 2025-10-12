@@ -78,8 +78,7 @@ cv-scorer/
 ---
 
 ## 👤 Autor
-
 Projekt przygotowany w celach edukacyjnych i demonstracyjnych.
-Możesz mnie znaleźć na GitHubie: tomsongracz
+Możesz mnie znaleźć na GitHubie: [tomsongracz](https://github.com/tomsongracz)
 
 ---
